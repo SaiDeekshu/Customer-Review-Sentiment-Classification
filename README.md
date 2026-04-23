@@ -1,5 +1,4 @@
-# 📊 Customer Review Sentiment Classification
-
+# 📊 Voices to Values: Sentiment Analysis
 ## 📌 Project Overview
 
 This project focuses on analyzing customer reviews and classifying them into *Positive, **Negative, and **Neutral* sentiments using Natural Language Processing (NLP) techniques. It transforms unstructured textual data into meaningful insights that help understand customer opinions.
